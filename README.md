@@ -1,5 +1,5 @@
 # ExpressWebServerTutorial
 App using Express and EJS
 
-Run npm install in your terminal
-Run npx nodemon main.js
+# Run npm install in your terminal
+# Run npx nodemon main.js
